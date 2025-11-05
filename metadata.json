@@ -1,0 +1,5 @@
+{
+  "name": "Análisis SEO Cinematográfico con Gemini",
+  "description": "Una aplicación que recrea un análisis de la película 'Sin Nombre' y utiliza la API de Gemini para generar sugerencias de SEO y esquemas de artículos para nuevos temas cinematográficos.",
+  "requestFramePermissions": []
+}
